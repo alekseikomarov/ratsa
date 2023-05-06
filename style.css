@@ -6,8 +6,8 @@ body{
 }
 
 #container{
-    width: 300px;
-    text-align: center;
+    width: 390px;
+    text-align: left;
     margin: auto; 
     padding: 10px 10px 10px 10px;
 }
@@ -17,13 +17,18 @@ h4{
     padding: 10px 10px 10px 10px;
 }
 
+
 #contact{
     margin: auto;
     text-align: left;
-    width: 360px;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
-    padding: 10px 0px 10px 0px;
+    
+    
+    width: 390px;
+   
+}
+
+img{
+    width: 30%;
 }
 
 #ratsa{
