@@ -1,21 +1,23 @@
 body{
     background-color: #e9f0f5;
     color: rgb(33, 33, 94);
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
     width: 390px;
     text-align: left;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: small;
+   
 }
 
 #kontakt{
-    font-size: small;
+    font-size: smaller;
 }
 
 #ratsa{
     font-style: italic;
-    font-size: small;
+    font-size: smaller;
 }
 
 
