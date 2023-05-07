@@ -3,10 +3,11 @@ body{
     color: rgb(33, 33, 94);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: auto;
+    width: 390px;
 }
 
 #container{
-    width: 390px;
+   
     text-align: left;
     margin: auto; 
     padding: 10px 10px 10px 10px;
@@ -15,7 +16,7 @@ body{
 #tekst{
     margin: auto;
     text-align: left;
-    width: 390px;
+   
     border-bottom: solid 1px;
     padding-bottom: 5px;
 }
@@ -23,7 +24,7 @@ body{
 #kontakt{
     margin: auto;
     text-align: center;
-    width: 390px;
+    
     padding-top: 20px;
 }
 
@@ -32,7 +33,7 @@ body{
     font-size: smaller;
     margin: auto;
     text-align: center;
-    width: 390px;
+    
     padding-top: 20px;
 }
 
