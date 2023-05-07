@@ -5,26 +5,17 @@ body{
     margin: auto;
     width: 390px;
     text-align: left;
-}
-
-#container{
-   
-    text-align: left;
-    margin: auto; 
-    padding: 10px 10px 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #kontakt{
-    margin: auto;
     font-size: small;
 }
 
 #ratsa{
     font-style: italic;
     font-size: small;
-    margin: auto;
-    text-align: left;
-    
 }
 
 
