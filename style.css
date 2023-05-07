@@ -23,8 +23,7 @@ body{
 
 #kontakt{
     margin: auto;
-    text-align: center;
-    
+    text-align: left;
     padding-top: 20px;
 }
 
@@ -33,7 +32,6 @@ body{
     font-size: smaller;
     margin: auto;
     text-align: center;
-    
     padding-top: 20px;
 }
 
