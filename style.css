@@ -4,6 +4,7 @@ body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: auto;
     width: 390px;
+    text-align: left;
 }
 
 #container{
@@ -13,26 +14,17 @@ body{
     padding: 10px 10px 10px 10px;
 }
 
-#tekst{
-    margin: auto;
-    text-align: left;
-   
-    border-bottom: solid 1px;
-    padding-bottom: 5px;
-}
-
 #kontakt{
     margin: auto;
-    text-align: left;
-    padding-top: 20px;
+    font-size: small;
 }
 
 #ratsa{
     font-style: italic;
-    font-size: smaller;
+    font-size: small;
     margin: auto;
-    text-align: center;
-    padding-top: 20px;
+    text-align: left;
+    
 }
 
 
