@@ -3,8 +3,7 @@ body{
     color: rgb(33, 33, 94);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: auto;
-    
-    text-align: left;
+    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
     font-size: small;
@@ -14,19 +13,14 @@ span{
     white-space: nowrap;
 }
 
-#kontakt{
-    font-size: x-small;
-}
-
 #ratsa{
-    font-style: italic;
-    font-size: x-small;
+    font-style: italic;  
 }
 
 a{
-    color: rgb(33, 33, 94);
+    color: whitesmoke;
     text-decoration: none;
-    background-color: azure;
+    background-color: rgb(33, 33, 94);
 }
 
 
