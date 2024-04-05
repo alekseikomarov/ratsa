@@ -2,11 +2,12 @@ body{
     background-color: #e9f0f5;
     color: rgb(33, 33, 94);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: auto;
+    
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: small;
+    
+    border-radius: 100;
 }
 
 span{
