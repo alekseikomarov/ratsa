@@ -13,10 +13,9 @@ body{
 p{
     font-size: xx-small;
     position: absolute;
-    bottom: 20px;
+    bottom: 0;
     left: 0;
     width: 100%;
-    
 }
 
 a{
