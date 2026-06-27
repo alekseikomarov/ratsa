@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(213, 213, 213);
+    background-color: green;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(49, 49, 49);
+    color: whitesmoke;
 }
 
 a{
-color: rgb(49, 49, 49);
+color: whitesmoke;
 text-decoration: none;
 }
 
